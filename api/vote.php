@@ -1,4 +1,5 @@
 <?php
+// Voting
     session_start();
     include("connection.php");
 
