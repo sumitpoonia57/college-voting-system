@@ -1,7 +1,7 @@
 <?php
     session_start();
     include("connection.php");
-//
+// connection
 
     $mobile = $_POST['mob'];
     $pass = $_POST['pass'];
