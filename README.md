@@ -1,4 +1,4 @@
-# College Election System Platform
+# College Voting System Platform
 # Introduction
 Online collection election system is a web application which is developed to conduct college  election process through internet like selection of branch CR, Club Event lead etc. This application is made in PHP and MySQL. 
 #   MODULES
